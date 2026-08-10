@@ -1,4 +1,4 @@
-markdown
+
 # Privacy Policy — Dzongkha AI
 
 *Last updated: [fill in date when you publish this]*
