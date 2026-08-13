@@ -1,2 +1,2 @@
 # dzongkha-ai-privacy
-Privacy policy for the Dzongkha AI app"
+Privacy policy for the Dzongkha AI app
